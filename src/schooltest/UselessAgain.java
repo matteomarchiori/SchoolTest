@@ -9,13 +9,6 @@ package schooltest;
  *
  * @author FSEVERI\marchiori2904
  */
-public class SchoolTest {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.print("ProvaProva");
-    }
+public class UselessAgain {
     
 }
